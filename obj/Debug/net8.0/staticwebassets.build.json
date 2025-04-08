@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1hoojBYpyxXC+j0B/BRJL2tnQFR0rjk6Z4RFaclostQ=",
+  "Source": "reimbursmentServicesApi",
+  "BasePath": "_content/reimbursmentServicesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
