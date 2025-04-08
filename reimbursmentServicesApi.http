@@ -1,0 +1,6 @@
+@reimbursmentServicesApi_HostAddress = http://localhost:5217
+
+GET {{reimbursmentServicesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
